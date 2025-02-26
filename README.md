@@ -1,7 +1,5 @@
 # Trading Challenge
 
-## Description
-Stock exchanges are fast-paced, high-stakes environments where every second counts. The intensity escalates as the trading day approaches its end, peaking in the critical final ten minutes. These moments, often characterised by heightened volatility and rapid price fluctuations, play a pivotal role in shaping the global economic narrative for the day. Develop a model capable of predicting the closing price movements for hundreds of Nasdaq listed stocks using data from the order book and the closing auction of the stock. Information from the auction can be used to adjust prices, assess supply and demand dynamics, and identify trading opportunities.
 
 ## Objective
 Create a predictive model that forecasts closing price movements for a diverse range of Nasdaq-listed stocks by using information from the order book and the closing auction.
